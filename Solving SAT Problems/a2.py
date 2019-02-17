@@ -1,7 +1,7 @@
 import random
 import time
 import copy
-##ZEESHAAN MANJI 301228629
+##ZEESHAAN MANJI 
 #####################################################
 #####################################################
 # Please enter the number of hours you spent on this
