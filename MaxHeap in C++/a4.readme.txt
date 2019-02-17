@@ -1,0 +1,32 @@
+301228629, zmmanji, Zeeshaan Manji
+Implementation: Max Heap
+
+Method:
+I used the  Max Heap Implementation for this Application. This Heap implementation helped me put the largest element at the top of the Heap and I used the PeekMax() to help me check my largest Element for this Project I had to check the Largest Element and Check if it existed in List 2 so I did a search for the Max element of List1 in List2 to see if it Existed and if it Existed I then continued my program and extractedMax from my function and Everytime I extractedMax I checked if it existed in List2 and if I came across a max value in List1 which didn't exist in List2 then I printed the Value out, as our goal is to print out the largest value in L1 which is not in L2.
+
+Summary:
+Example of a test file My Run function inputs all the data into the Heap :
+5
+4
+3
+0
+5
+3
+1
+ L1 Heap:       L2 Heap:
+ 	 (5)              (5)
+	/  \             /  \
+    (4)     (3)      (3)   (1)
+My compare Function Checks the following
+Since 5 is the Largest Element in L1 (check figure above)  it checks in L2 if 5 exists and if it does the next step  of extract max occurs in L1 and it looks like the figure below.
+ L1 Heap:       L2 Heap:
+ 	 (4)              (5)
+	/                 /  \
+     (3)                (3)   (1)
+It then checks if the Element 4 exists in Heap2 and if it doesn't then it outputs 4 for the given problem.
+  
+
+
+I used this implementation as it has a time complexity of 0(log(n))
+
+Code used in this Assignment is entirely Mine. I used this from my Assignment 3 on priority Heap Queues ,and  amended it for the specification of this Assignment.
