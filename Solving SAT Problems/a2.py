@@ -8,15 +8,6 @@ import copy
 # assignment here
 num_hours_i_spent_on_this_assignment = 40
 #####################################################
-#####################################################
-
-#####################################################
-#####################################################
-# Give one short piece of feedback about the course so far. What
-# have you found most interesting? Is there a topic that you had trouble
-# understanding? Are there any changes that could improve the value of the
-# course to you? (We will anonymize these before reading them.)
-# The lectures are still going very fast, and I feel that it's difficult to learn when we don't have good examples to explain the concepts
 
 #####################################################
 #####################################################
