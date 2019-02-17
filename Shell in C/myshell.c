@@ -1,9 +1,8 @@
 //
 //  main.c
-//  Assignment1_CMPT300
 //  Copyright © 2016 Zeeshaan Manji. All rights reserved.
 
-// ZEESHAAN MANJI 301228629 02/01/2016
+// ZEESHAAN MANJI //
 #include <stdio.h>
 #include <string.h>
 #include <sys/wait.h>
