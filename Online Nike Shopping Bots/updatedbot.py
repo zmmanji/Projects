@@ -22,7 +22,7 @@ def order(k):
     driver.find_element_by_xpath('//*[@id="shippingSubmit"]').click()
  
 keys = {"product_url":"https://www.nike.com/ca/t/odyssey-react-flyknit-2-graphic-running-shoe-27Ws8c",
-        "name": "Zeeshaan", "lastname":"Manji","postalcode":"V5H0E8","add":"6588 Nelson Ave","phone":"7788967869","munic":"burnaby","email":"info@a.com"}
+        "name": "Test","lastname":"TEST2","postalcode":"V5A0A16","add":"8888 University Drive","phone":"7788960000","munic":"burnaby","email":"info@a.com"}
 start = timeit.timeit()
 order(keys)
 end = timeit.timeit()
