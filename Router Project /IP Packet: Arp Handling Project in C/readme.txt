@@ -1,17 +1,3 @@
-Group Members:
-=======================
-
-Zeeshaan Manji 301228629
-
-Uzziah Eyee 301240256
-
-
--Note: In this Assignment we worked together and parallel coded through major parts of this assignment. We created 5 milestones which completed the assignment.
-
-Work and Responsibilities:
-==========================
-
-The two group members Zeeshaan and Uzziah pair-coded the entire assignment, all logic, functions, and debugging were jointly done by the two developers. Consequently, no person was left to single-handedly implement any part.
 
 Break down of solution:
 ========================
