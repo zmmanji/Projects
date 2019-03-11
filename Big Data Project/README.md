@@ -1,6 +1,8 @@
 Big Data Project on US POWER GRID 
 
 Project Task Guildines
+
+
 -Detecting Anomalies on a power grid dataset
 -Organize the data into seasons
 -Analyse the data using the different variable provided in the dataset
