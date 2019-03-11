@@ -5,5 +5,5 @@ Thank you for taking the time to look at my Projects. I have organized all my pr
 
 Technologies used:C++, C,Objective C, React JS, JavaScript, Python, HTML, CSS
   
-If you have any questions please feel free to reach out to me if you have any questions.
+If you have any questions please feel free to reach out to me on my email zeeshannmanji@hotmail.com
 
