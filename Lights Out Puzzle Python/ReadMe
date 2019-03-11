@@ -1,0 +1,11 @@
+Project Guidlines:
+-The goal is to turn out all the lights, ideally with the minimum number of clicks. There is a fairly easy method for solving the puzzles, but it will very rarely result in the minimum number of moves.
+-Implemented seven functions:
+• create puzzle(rows, cols): Create a Lights Out puzzle with all cells initialized to off.
+• perform move(puzzle, row, col): Toggle the appropriate cells cor- responding to a move at position (row,col).
+• scramble(puzzle): Scramble the puzzle by, on each cell, randomly with 50% probability, calling perform move() . This ensures that the puzzle is solvable, which might not be the case if cells are flipped indi- vidually.
+• is solved(puzzle): Returns True or False depending on whether all cells are off.
+• Depth-First Algorithm
+• Breadth-First Algorithm
+• A* Algorithm
+
