@@ -1,0 +1,10 @@
+Readme File:
+
+Project: Neural Networks developed using Python
+
+Implemented four functions in Python
+
+1. calculate() applies the neural network to a given input and returns the output of the network (i.e. the output of the last neuron)
+2. squared_error() calculates the error of the network on a set of examples. backpropagate_example() applies the backpropagation algorithm to learn the weights for a given example
+3. learn() repeatedly applies the backpropagation algorithm to each of the input examples, repeating num_epochs times (that is, for 4 examples and 100 epochs.
+4. learn() will call backpropagate_example() 400 times.)
