@@ -1,4 +1,3 @@
-301228629, zmmanji, Zeeshaan Manji
 Implementation: Max Heap
 
 Method:
@@ -29,4 +28,8 @@ It then checks if the Element 4 exists in Heap2 and if it doesn't then it output
 
 I used this implementation as it has a time complexity of 0(log(n))
 
-Code used in this Assignment is entirely Mine. I used this from my Assignment 3 on priority Heap Queues ,and  amended it for the specification of this Assignment.
+
+
+How to run this file:
+
+- 
