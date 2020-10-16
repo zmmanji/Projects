@@ -16,7 +16,8 @@ Please refer to the project report to have an overview of the project guidlines 
 
 Steps to run the program:-
 
-Main Source Code is data.R
+- Main Source Code is data.R
+- Make sure to put the Train Data set and Summer Data Set in the same folder as data.R when running.
 
 
 
