@@ -1,5 +1,6 @@
 Project Guidlines for Lights out Puzzle Developed using Python.
 
+Objective:
 The goal is to turn out all the lights, ideally with the minimum number of clicks. There is a fairly easy method for solving the puzzles, but it will very rarely result in the minimum number of moves.
 
 Implemented seven functions:
@@ -11,3 +12,7 @@ Implemented seven functions:
 - Breadth-First Algorithm
 - A* Algorithm
 
+How to run the program:
+
+- open LightsoutPuzzle.py in Python 3
+- Run Code, and user interface should display results for each algorithm.
