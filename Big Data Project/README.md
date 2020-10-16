@@ -14,5 +14,10 @@ Project Task Guildines
 
 Please refer to the project report to have an overview of the project guidlines and statistical findings.
 
+Steps to run the program:-
+
+Main Source Code is data.R
+
+
 
 
